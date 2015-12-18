@@ -1,6 +1,6 @@
 {
   "name": "byte-length",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get the real byte length of a string.",
   "author": "Dylan Piercey <pierceydylan@gmail.com>",
   "main": "index.js",
