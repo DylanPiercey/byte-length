@@ -18,6 +18,9 @@
     "tslint-config-prettier": "^1.5.0",
     "typescript": "^2.5.3"
   },
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/DylanPiercey/byte-length",
   "keywords": [
     "bytes",
