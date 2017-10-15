@@ -1,7 +1,7 @@
 {
   "name": "byte-length",
   "description": "Get the real byte length of a string.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Dylan Piercey <pierceydylan@gmail.com>",
   "bugs": "https://github.com/DylanPiercey/byte-length/issues",
   "devDependencies": {
