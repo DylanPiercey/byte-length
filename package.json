@@ -36,7 +36,7 @@
       "git add"
     ]
   },
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/DylanPiercey/byte-length"
